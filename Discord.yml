@@ -1,0 +1,4 @@
+- name: thonk
+  strings:
+    - ":thonk:"
+  location: "assets/discord/thonk.png"
